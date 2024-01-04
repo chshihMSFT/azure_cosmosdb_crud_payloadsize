@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-cosmosdb-crud-payloadsize", "azure_cosmosdb_crud_payloadsize\azure-cosmosdb-crud-payloadsize.csproj", "{01703E7B-AEA4-4DEE-9502-ED638CDD606E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01703E7B-AEA4-4DEE-9502-ED638CDD606E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01703E7B-AEA4-4DEE-9502-ED638CDD606E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01703E7B-AEA4-4DEE-9502-ED638CDD606E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01703E7B-AEA4-4DEE-9502-ED638CDD606E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {418F043D-F16B-4DCE-B7F4-BE90702D0563}
+	EndGlobalSection
+EndGlobal
